@@ -25,6 +25,7 @@ Console.WriteLine("Opgave 2");
 Console.WriteLine("Opgave 3");
 
 
+List<int> numbers = new List<int> { 5, 12, 8, 3, 15, 20, 10, 5, 7 };
 
 //Opgave 4
 //Find summen af alle tal over 10
